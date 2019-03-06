@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+
+.btnsub {
+  background-color: #333;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.btnsub:hover {opacity: 0.6}
